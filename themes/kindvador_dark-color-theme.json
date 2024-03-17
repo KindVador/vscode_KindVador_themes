@@ -41,6 +41,10 @@
       "list.inactiveSelectionBackground": "#2c313a",
       "list.inactiveSelectionForeground": "#d7dae0",
       "notifications.background": "#21252b",
+      "outputView.background": "#1d1f23",
+      "panel.background": "#1d1f23",
+      "panelTitle.activeForeground": "#98c379",
+      "panelTitle.inactiveForeground": "#9da5b4",
       "scrollbarSlider.activeBackground": "#747D9180",
       "scrollbarSlider.background": "#4E566680",
       "scrollbarSlider.hoverBackground": "#5A637580",
@@ -436,7 +440,6 @@
         "name": "Invalid",
         "scope": "invalid",
         "settings": {
-          "background": "#c678dd",
           "foreground": "#F8F8F0"
         }
       },
@@ -444,7 +447,6 @@
         "name": "Invalid deprecated",
         "scope": "invalid.deprecated",
         "settings": {
-          "background": "#56b6c2",
           "foreground": "#F8F8F0"
         }
       },
